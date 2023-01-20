@@ -10,3 +10,5 @@
 :1st_place_medal: - 1st_place_medal
 
 :2nd_place_medal: - 2nd_place_medal
+
+:3rd_place_medal: - 3rd place_medal
