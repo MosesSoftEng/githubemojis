@@ -1,2 +1,1 @@
-# githubemojis
-List of supported github emojis
+:+1:, :-1:, :100:, :1234:, :8ball:, :a:, :ab:, :abc:, :abcd:, :accept:, :aerial_tramway:, :airplane:, :alarm_clock:, :alien:, :ambulance:, :anchor:, :angel:, :anger:, :angry:, :anguished:, :ant:, :apple:, :aquarius:, :aries:, :arrow_backward:, :arrow_double_down:, :arrow_double_up:
