@@ -7,3 +7,5 @@ line 2
 +1
 
 -1
+
+1st_place_medal
