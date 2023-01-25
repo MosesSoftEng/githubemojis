@@ -50,3 +50,5 @@
 :algeria: - algeria
 
 :alien: - alien
+
+:ambulance: - ambulance
