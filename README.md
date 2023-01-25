@@ -32,3 +32,5 @@
 :adhesive_bandage: - adhesive bandage
 
 :adult: - adult
+
+:aerial_tramway: - aerial tramway
