@@ -42,3 +42,5 @@
 :aland_islands: - aland islands
 
 :alarm_clock: - alarm clock
+
+:albania: - albania
