@@ -46,3 +46,5 @@
 :albania: - albania
 
 :alembic: - alembic
+
+:algeria: - algeria
