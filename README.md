@@ -26,3 +26,5 @@
 :abcd: - abcd
 
 :accept: - accept
+
+:accordion: - accordion
