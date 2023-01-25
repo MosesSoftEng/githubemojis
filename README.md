@@ -34,3 +34,5 @@
 :adult: - adult
 
 :aerial_tramway: - aerial tramway
+
+:afghanistan: - afghanistan
