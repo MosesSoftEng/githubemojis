@@ -28,3 +28,5 @@
 :accept: - accept
 
 :accordion: - accordion
+
+:adhesive_bandage: - adhesive bandage
