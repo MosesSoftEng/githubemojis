@@ -54,3 +54,5 @@
 :ambulance: - ambulance
 
 :american_samoa: - american samoa
+
+:amphora: - amphora
