@@ -52,3 +52,5 @@
 :alien: - alien
 
 :ambulance: - ambulance
+
+:american_samoa: - american samoa
