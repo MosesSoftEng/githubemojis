@@ -30,3 +30,5 @@
 :accordion: - accordion
 
 :adhesive_bandage: - adhesive bandage
+
+:adult: - adult
