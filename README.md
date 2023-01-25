@@ -56,3 +56,5 @@
 :american_samoa: - american samoa
 
 :amphora: - amphora
+
+:anatomical_heart: - anatomical heart
