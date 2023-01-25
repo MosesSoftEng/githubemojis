@@ -18,3 +18,5 @@
 :a: - a
 
 :ab: - ab
+
+:abacus: - abacus
