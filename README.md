@@ -22,3 +22,5 @@
 :abacus: - abacus
 
 :abc: - abc
+
+:abcd: - abcd
