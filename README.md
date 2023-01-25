@@ -38,3 +38,5 @@
 :afghanistan: - afghanistan
 
 :airplane: - airplane
+
+:aland_islands: - aland islands
