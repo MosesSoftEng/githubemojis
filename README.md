@@ -58,3 +58,5 @@
 :amphora: - amphora
 
 :anatomical_heart: - anatomical heart
+
+:anchor: - anchor
