@@ -20,3 +20,5 @@
 :ab: - ab
 
 :abacus: - abacus
+
+:abc: - abc
