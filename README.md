@@ -60,3 +60,5 @@
 :anatomical_heart: - anatomical heart
 
 :anchor: - anchor
+
+:andorra: - andorra
