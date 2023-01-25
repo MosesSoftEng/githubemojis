@@ -44,3 +44,5 @@
 :alarm_clock: - alarm clock
 
 :albania: - albania
+
+:alembic: - alembic
