@@ -36,3 +36,5 @@
 :aerial_tramway: - aerial tramway
 
 :afghanistan: - afghanistan
+
+:airplane: - airplane
