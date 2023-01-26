@@ -66,3 +66,5 @@
 :angel: - angel
 
 :anger: - anger
+
+:angola: - angola
