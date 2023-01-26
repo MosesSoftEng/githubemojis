@@ -68,3 +68,5 @@
 :anger: - anger
 
 :angola: - angola
+
+:angry: - angry
