@@ -72,3 +72,5 @@
 :angry: - angry
 
 :anguilla: - anguilla
+
+:anguished: - anguished
