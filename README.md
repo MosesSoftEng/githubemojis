@@ -64,3 +64,5 @@
 :andorra: - andorra
 
 :angel: - angel
+
+:anger: - anger
