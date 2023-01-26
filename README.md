@@ -70,3 +70,5 @@
 :angola: - angola
 
 :angry: - angry
+
+:anguilla: - anguilla
