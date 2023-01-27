@@ -76,3 +76,5 @@
 :anguished: - anguished
 
 :ant: - ant
+
+:antarctica: - antarctica
