@@ -78,3 +78,5 @@
 :ant: - ant
 
 :antarctica: - antarctica
+
+:antigua_barbuda: - antigua barbuda
