@@ -86,3 +86,5 @@
 :aquarius: - aquarius
 
 :argentina: - argentina
+
+:aries: - aries
