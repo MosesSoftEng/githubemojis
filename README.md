@@ -88,3 +88,5 @@
 :argentina: - argentina
 
 :aries: - aries
+
+:armenia: - armenia
