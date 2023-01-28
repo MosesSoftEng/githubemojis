@@ -84,3 +84,5 @@
 :apple: - apple
 
 :aquarius: - aquarius
+
+:argentina: - argentina
