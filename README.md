@@ -90,3 +90,5 @@
 :aries: - aries
 
 :armenia: - armenia
+
+:arrow_backward: - arrow backward
