@@ -96,3 +96,5 @@
 :arrow_double_down: - arrow double down
 
 :arrow_double_up: - arrow double up
+
+:arrow_down: - arrow down
