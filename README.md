@@ -104,3 +104,5 @@
 :arrow_forward: - arrow forward
 
 :arrow_heading_down: - arrow heading down
+
+:arrow_heading_up: - arrow heading up
