@@ -102,3 +102,5 @@
 :arrow_down_small: - arrow down small
 
 :arrow_forward: - arrow forward
+
+:arrow_heading_down: - arrow heading down
