@@ -106,3 +106,5 @@
 :arrow_heading_down: - arrow heading down
 
 :arrow_heading_up: - arrow heading up
+
+:arrow_left: - arrow left
