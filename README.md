@@ -116,3 +116,5 @@
 :arrow_right: - arrow right
 
 :arrow_right_hook: - arrow right hook
+
+:arrow_up: - arrow up
