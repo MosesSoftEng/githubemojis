@@ -120,3 +120,5 @@
 :arrow_up: - arrow up
 
 :arrow_up_down: - arrow up down
+
+:arrow_up_small: - arrow up small
