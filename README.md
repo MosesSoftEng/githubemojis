@@ -114,3 +114,5 @@
 :arrow_lower_right: - arrow lower right
 
 :arrow_right: - arrow right
+
+:arrow_right_hook: - arrow right hook
