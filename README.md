@@ -112,3 +112,5 @@
 :arrow_lower_left: - arrow lower left
 
 :arrow_lower_right: - arrow lower right
+
+:arrow_right: - arrow right
