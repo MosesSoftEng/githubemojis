@@ -110,3 +110,5 @@
 :arrow_left: - arrow left
 
 :arrow_lower_left: - arrow lower left
+
+:arrow_lower_right: - arrow lower right
