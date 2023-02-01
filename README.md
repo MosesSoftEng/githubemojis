@@ -122,3 +122,5 @@
 :arrow_up_down: - arrow up down
 
 :arrow_up_small: - arrow up small
+
+:arrow_upper_left: - arrow upper left
