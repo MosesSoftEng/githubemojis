@@ -126,3 +126,5 @@
 :arrow_upper_left: - arrow upper left
 
 :arrow_upper_right: - arrow upper right
+
+:arrows_clockwise: - arrows clockwise
