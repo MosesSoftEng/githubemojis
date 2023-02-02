@@ -138,3 +138,5 @@
 :artificial_satellite: - artificial satellite
 
 :artist: - artist
+
+:aruba: - aruba
