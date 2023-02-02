@@ -130,3 +130,5 @@
 :arrows_clockwise: - arrows clockwise
 
 :arrows_counterclockwise: - arrows counterclockwise
+
+:art: - art
