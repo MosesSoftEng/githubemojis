@@ -132,3 +132,5 @@
 :arrows_counterclockwise: - arrows counterclockwise
 
 :art: - art
+
+:articulated_lorry: - articulated lorry
