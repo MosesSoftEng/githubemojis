@@ -136,3 +136,5 @@
 :articulated_lorry: - articulated lorry
 
 :artificial_satellite: - artificial satellite
+
+:artist: - artist
