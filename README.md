@@ -144,3 +144,5 @@
 :ascension_island: - ascension island
 
 :asterisk: - asterisk
+
+:astonished: - astonished
