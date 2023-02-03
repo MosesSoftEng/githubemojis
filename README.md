@@ -142,3 +142,5 @@
 :aruba: - aruba
 
 :ascension_island: - ascension island
+
+:asterisk: - asterisk
