@@ -140,3 +140,5 @@
 :artist: - artist
 
 :aruba: - aruba
+
+:ascension_island: - ascension island
