@@ -146,3 +146,5 @@
 :asterisk: - asterisk
 
 :astonished: - astonished
+
+:astronaut: - astronaut
