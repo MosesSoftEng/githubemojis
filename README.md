@@ -148,3 +148,5 @@
 :astonished: - astonished
 
 :astronaut: - astronaut
+
+:athletic_shoe: - athletic shoe
