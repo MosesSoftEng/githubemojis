@@ -154,3 +154,5 @@
 :atm: - atm
 
 :atom: - atom
+
+:atom_symbol: - atom symbol
