@@ -150,3 +150,5 @@
 :astronaut: - astronaut
 
 :athletic_shoe: - athletic shoe
+
+:atm: - atm
