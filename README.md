@@ -152,3 +152,5 @@
 :athletic_shoe: - athletic shoe
 
 :atm: - atm
+
+:atom: - atom
