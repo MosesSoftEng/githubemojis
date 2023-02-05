@@ -164,3 +164,5 @@
 :auto_rickshaw: - auto rickshaw
 
 :avocado: - avocado
+
+:axe: - axe
