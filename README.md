@@ -158,3 +158,5 @@
 :atom_symbol: - atom symbol
 
 :australia: - australia
+
+:austria: - austria
