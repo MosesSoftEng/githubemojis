@@ -162,3 +162,5 @@
 :austria: - austria
 
 :auto_rickshaw: - auto rickshaw
+
+:avocado: - avocado
