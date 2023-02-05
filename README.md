@@ -166,3 +166,5 @@
 :avocado: - avocado
 
 :axe: - axe
+
+:azerbaijan: - azerbaijan
