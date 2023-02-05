@@ -160,3 +160,5 @@
 :australia: - australia
 
 :austria: - austria
+
+:auto_rickshaw: - auto rickshaw
