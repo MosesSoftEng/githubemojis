@@ -174,3 +174,5 @@
 :baby: - baby
 
 :baby_bottle: - baby bottle
+
+:baby_chick: - baby chick
