@@ -172,3 +172,5 @@
 :b: - b
 
 :baby: - baby
+
+:baby_bottle: - baby bottle
