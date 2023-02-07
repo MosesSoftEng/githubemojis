@@ -186,3 +186,5 @@
 :badger: - badger
 
 :badminton: - badminton
+
+:bagel: - bagel
