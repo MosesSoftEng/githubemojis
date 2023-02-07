@@ -184,3 +184,5 @@
 :bacon: - bacon
 
 :badger: - badger
+
+:badminton: - badminton
