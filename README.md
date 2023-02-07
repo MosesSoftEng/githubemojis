@@ -180,3 +180,5 @@
 :baby_symbol: - baby symbol
 
 :back: - back
+
+:bacon: - bacon
