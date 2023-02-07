@@ -182,3 +182,5 @@
 :back: - back
 
 :bacon: - bacon
+
+:badger: - badger
