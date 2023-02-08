@@ -194,3 +194,5 @@
 :baguette_bread: - baguette bread
 
 :bahamas: - bahamas
+
+:bahrain: - bahrain
