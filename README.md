@@ -196,3 +196,5 @@
 :bahamas: - bahamas
 
 :bahrain: - bahrain
+
+:balance_scale: - balance scale
