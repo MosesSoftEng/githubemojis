@@ -188,3 +188,5 @@
 :badminton: - badminton
 
 :bagel: - bagel
+
+:baggage_claim: - baggage claim
