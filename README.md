@@ -190,3 +190,5 @@
 :bagel: - bagel
 
 :baggage_claim: - baggage claim
+
+:baguette_bread: - baguette bread
