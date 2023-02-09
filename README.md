@@ -200,3 +200,5 @@
 :balance_scale: - balance scale
 
 :bald_man: - bald man
+
+:bald_woman: - bald woman
