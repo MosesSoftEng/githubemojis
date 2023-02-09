@@ -204,3 +204,5 @@
 :bald_woman: - bald woman
 
 :ballet_shoes: - ballet shoes
+
+:balloon: - balloon
