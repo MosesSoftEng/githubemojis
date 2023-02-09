@@ -202,3 +202,5 @@
 :bald_man: - bald man
 
 :bald_woman: - bald woman
+
+:ballet_shoes: - ballet shoes
