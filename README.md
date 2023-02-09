@@ -198,3 +198,5 @@
 :bahrain: - bahrain
 
 :balance_scale: - balance scale
+
+:bald_man: - bald man
