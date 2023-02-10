@@ -206,3 +206,5 @@
 :ballet_shoes: - ballet shoes
 
 :balloon: - balloon
+
+:ballot_box: - ballot box
