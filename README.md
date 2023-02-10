@@ -212,3 +212,5 @@
 :ballot_box_with_check: - ballot box with check
 
 :bamboo: - bamboo
+
+:banana: - banana
