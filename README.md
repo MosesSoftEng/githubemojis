@@ -214,3 +214,5 @@
 :bamboo: - bamboo
 
 :banana: - banana
+
+:bangbang: - bangbang
