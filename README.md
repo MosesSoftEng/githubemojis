@@ -220,3 +220,5 @@
 :bangladesh: - bangladesh
 
 :banjo: - banjo
+
+:bank: - bank
