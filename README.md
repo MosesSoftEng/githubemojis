@@ -222,3 +222,5 @@
 :banjo: - banjo
 
 :bank: - bank
+
+:bar_chart: - bar chart
