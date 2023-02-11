@@ -218,3 +218,5 @@
 :bangbang: - bangbang
 
 :bangladesh: - bangladesh
+
+:banjo: - banjo
