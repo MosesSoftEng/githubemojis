@@ -216,3 +216,5 @@
 :banana: - banana
 
 :bangbang: - bangbang
+
+:bangladesh: - bangladesh
