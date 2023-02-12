@@ -224,3 +224,5 @@
 :bank: - bank
 
 :bar_chart: - bar chart
+
+:barbados: - barbados
