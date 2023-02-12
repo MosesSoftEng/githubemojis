@@ -232,3 +232,5 @@
 :baseball: - baseball
 
 :basecamp: - basecamp
+
+:basecampy: - basecampy
