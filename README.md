@@ -226,3 +226,5 @@
 :bar_chart: - bar chart
 
 :barbados: - barbados
+
+:barber: - barber
