@@ -230,3 +230,5 @@
 :barber: - barber
 
 :baseball: - baseball
+
+:basecamp: - basecamp
