@@ -236,3 +236,5 @@
 :basecampy: - basecampy
 
 :basket: - basket
+
+:basketball: - basketball
