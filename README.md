@@ -242,3 +242,5 @@
 :basketball_man: - basketball man
 
 :basketball_woman: - basketball woman
+
+:bat: - bat
