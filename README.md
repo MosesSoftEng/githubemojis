@@ -238,3 +238,5 @@
 :basket: - basket
 
 :basketball: - basketball
+
+:basketball_man: - basketball man
