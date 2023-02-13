@@ -234,3 +234,5 @@
 :basecamp: - basecamp
 
 :basecampy: - basecampy
+
+:basket: - basket
