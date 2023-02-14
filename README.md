@@ -250,3 +250,5 @@
 :bathtub: - bathtub
 
 :battery: - battery
+
+:beach_umbrella: - beach umbrella
