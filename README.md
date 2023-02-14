@@ -246,3 +246,5 @@
 :bat: - bat
 
 :bath: - bath
+
+:bathtub: - bathtub
