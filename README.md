@@ -248,3 +248,5 @@
 :bath: - bath
 
 :bathtub: - bathtub
+
+:battery: - battery
