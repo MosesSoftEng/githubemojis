@@ -244,3 +244,5 @@
 :basketball_woman: - basketball woman
 
 :bat: - bat
+
+:bath: - bath
