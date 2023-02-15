@@ -256,3 +256,5 @@
 :bear: - bear
 
 :bearded_person: - bearded person
+
+:beaver: - beaver
