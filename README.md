@@ -258,3 +258,5 @@
 :bearded_person: - bearded person
 
 :beaver: - beaver
+
+:bed: - bed
