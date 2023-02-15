@@ -254,3 +254,5 @@
 :beach_umbrella: - beach umbrella
 
 :bear: - bear
+
+:bearded_person: - bearded person
