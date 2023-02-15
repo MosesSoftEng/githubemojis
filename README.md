@@ -252,3 +252,5 @@
 :battery: - battery
 
 :beach_umbrella: - beach umbrella
+
+:bear: - bear
