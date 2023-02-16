@@ -270,3 +270,5 @@
 :beetle: - beetle
 
 :beginner: - beginner
+
+:belarus: - belarus
