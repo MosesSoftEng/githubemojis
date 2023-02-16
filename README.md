@@ -260,3 +260,5 @@
 :beaver: - beaver
 
 :bed: - bed
+
+:bee: - bee
