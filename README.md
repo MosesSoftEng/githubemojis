@@ -262,3 +262,5 @@
 :bed: - bed
 
 :bee: - bee
+
+:beer: - beer
