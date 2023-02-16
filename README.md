@@ -266,3 +266,5 @@
 :beer: - beer
 
 :beers: - beers
+
+:beetle: - beetle
