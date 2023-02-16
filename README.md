@@ -268,3 +268,5 @@
 :beers: - beers
 
 :beetle: - beetle
+
+:beginner: - beginner
