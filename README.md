@@ -264,3 +264,5 @@
 :bee: - bee
 
 :beer: - beer
+
+:beers: - beers
