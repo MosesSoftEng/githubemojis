@@ -284,3 +284,5 @@
 :bellhop_bell: - bellhop bell
 
 :benin: - benin
+
+:bento: - bento
