@@ -274,3 +274,5 @@
 :belarus: - belarus
 
 :belgium: - belgium
+
+:belize: - belize
