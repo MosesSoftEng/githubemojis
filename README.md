@@ -278,3 +278,5 @@
 :belize: - belize
 
 :bell: - bell
+
+:bell_pepper: - bell pepper
