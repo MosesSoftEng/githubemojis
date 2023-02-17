@@ -282,3 +282,5 @@
 :bell_pepper: - bell pepper
 
 :bellhop_bell: - bellhop bell
+
+:benin: - benin
