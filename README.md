@@ -272,3 +272,5 @@
 :beginner: - beginner
 
 :belarus: - belarus
+
+:belgium: - belgium
