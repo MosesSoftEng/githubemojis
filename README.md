@@ -288,3 +288,5 @@
 :bento: - bento
 
 :bermuda: - bermuda
+
+:beverage_box: - beverage box
