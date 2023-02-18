@@ -286,3 +286,5 @@
 :benin: - benin
 
 :bento: - bento
+
+:bermuda: - bermuda
