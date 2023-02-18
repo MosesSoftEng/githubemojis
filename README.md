@@ -292,3 +292,5 @@
 :beverage_box: - beverage box
 
 :bhutan: - bhutan
+
+:bicyclist: - bicyclist
