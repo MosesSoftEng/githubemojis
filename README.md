@@ -296,3 +296,5 @@
 :bicyclist: - bicyclist
 
 :bike: - bike
+
+:biking_man: - biking man
