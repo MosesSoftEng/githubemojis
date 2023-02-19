@@ -294,3 +294,5 @@
 :bhutan: - bhutan
 
 :bicyclist: - bicyclist
+
+:bike: - bike
